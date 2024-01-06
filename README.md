@@ -33,3 +33,11 @@ Find out more about me & feel free to connect with me here:
 
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=reneaudain%2Freneaudain&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=reneaudain%2Freneaudain)
+
+<!-- Replace the fields below with the information requested. Remember to remove the encapsulating <> characters. -->
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=reneaudain&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reneaudain&hide=TeX&layout=compact)
+
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=reneaudain%2Freneaudain&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=reneaudain%2Freneaudain
